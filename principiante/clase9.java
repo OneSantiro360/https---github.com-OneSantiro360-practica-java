@@ -10,13 +10,13 @@ public class clase9 {
     int antiguedad=0;
 
 
-    System.out.println("Cual es el nombre del trabajador");
+    System.out.print("Cual es el nombre del trabajador");
     nombre=in.nextLine();
 
     System.out.println("Cuantos años tiene el trabajador con la empresa");
     antiguedad=in.nextInt();
 
-    System.out.println("Cual es la clave del departamento");
+    System.out.println("Cual es la clave del TRabajador");
     clave=in.nextInt();
 
     if(clave==1){
