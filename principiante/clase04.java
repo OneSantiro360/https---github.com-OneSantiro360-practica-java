@@ -1,5 +1,5 @@
 //operaciones
-public class clase4{
+public class clase04{
   public static void main(String args[]){
     int Numero_1 = 5;
     int Numero_2 = 4;

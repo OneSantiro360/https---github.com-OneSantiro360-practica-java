@@ -1,7 +1,7 @@
 //Como introducir datos desde teclado con Scanner
 import java.util.Scanner;
 
-public class clase8{
+public class clase08{
   public static void main(String args[]){
     Scanner in = new Scanner(System.in);
     String nombre="";

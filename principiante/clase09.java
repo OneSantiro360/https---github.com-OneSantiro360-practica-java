@@ -1,7 +1,7 @@
 //Condiciones compuestas con operadores lógicos & relacionales "|| and &&"
 import java.util.Scanner;
 
-public class clase9 {
+public class clase09 {
   
   public static void main(String args[]){
     Scanner in = new Scanner(System.in);

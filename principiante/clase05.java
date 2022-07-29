@@ -1,5 +1,5 @@
 //prioridad entre operadores
-public class clase5{
+public class clase05{
   public static void main(String args[]){
     int numero1=14;
     int numero2=84;

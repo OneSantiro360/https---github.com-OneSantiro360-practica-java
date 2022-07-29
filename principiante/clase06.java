@@ -1,5 +1,5 @@
 //Estructuras condicionales con if-else
-public class clase6 {
+public class clase06 {
   public static void main(String args[]){
     int math=5;
     int bio=8;

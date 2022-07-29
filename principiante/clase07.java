@@ -1,5 +1,5 @@
 //Estructuras condicionales anidadas
-public class clase7 {
+public class clase07 {
   public static void main(String args[]){
     int operacion=3;
     int num1=8;
