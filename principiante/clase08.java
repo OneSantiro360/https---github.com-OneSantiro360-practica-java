@@ -8,7 +8,7 @@ public class clase08{
     int num1=0, num2=0, resultado=0;
 
     System.out.println("¿Cual es tu nombre?");
-    nombre=in.nextLine(); //que el usuario agregue informacion
+    nombre=in.nextLine(); //que el usuario agregue información
 
     System.out.println("Dame el primer valor para tu suma");
     num1 = in.nextInt();
