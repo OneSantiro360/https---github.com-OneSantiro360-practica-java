@@ -10,7 +10,7 @@ public class clase9 {
     int antiguedad=0;
 
 
-    System.out.print("Cual es el nombre del trabajador");
+    System.out.println("Cual es el nombre del trabajador");
     nombre=in.nextLine();
 
     System.out.println("Cuantos años tiene el trabajador con la empresa");
